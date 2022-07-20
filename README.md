@@ -1,6 +1,10 @@
-# Amazon Valid Email Checker
-## _>Valid Email Checker_
+# Amazon Valid Email Checker #
+
+### :warning: Warning! ###
+***I Am Not Responsible of any Illegal Use!***
+## _Valid Email Checker_
 > You can use this tool to check if email is registered to Amazon
+
 ![image](./image.jpg)
 ## ☣Amazon Valid Email Checker☣
 
