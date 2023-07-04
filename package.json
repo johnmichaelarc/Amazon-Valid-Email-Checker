@@ -1,0 +1,16 @@
+{
+  "name": "amazon-valid-email-checker",
+  "version": "1.0.1",
+  "description": "***I Am Not Responsible of any Illegal Use!***\r ## _Valid Email Checker_\r > You can use this tool to check if email is registered to Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": ["amazon", "valid", "email", "checker"],
+  "author": "Chael Arc<johnmichaelarc@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^20.7.4"
+  }
+}
