@@ -4,6 +4,10 @@
 
 **_I Am Not Responsible of any Illegal Use!_**
 
+### Donation
+
+- Bitcoin -> bc1qjhktuareemj6gk4h02c222prkjp7dvdef0nnwn
+
 ## _Valid Email Checker_
 
 > You can use this tool to check if email is registered to Amazon
